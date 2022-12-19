@@ -1,0 +1,24 @@
+<svg class="svg" width="600" height="300" xmlns="http://www.w3.org/2000/svg" version="1.1">
+		<!--kolobok black-ooh-->
+		<ellipse class="shadow" rx="80" ry="20" cx="200" cy="245" fill="#9b9b9b" opacity="0.4"></ellipse>
+		<circle class="cat" r="105" cx="200" cy="140" fill="#e8a539"></circle> 
+		<polygon class="cat__ooh1" points="117,79 126,40 170,45" fill="black" stroke="#e8a539" stroke-width="6"></polygon>
+    	<polygon class="cat__ooh2" points="268,62 246,23 216,40" fill="black" stroke="#e8a539" stroke-width="6"></polygon>
+    	<ellipse class="cat__tail" rx="60" ry="25" cx="80" cy="150" fill="#e8a539" transform="rotate(15 115 70)"></ellipse>
+    	<polygon points="8,124 30,110 20,147" fill="white"></polygon>
+		<circle class="cat__eye1" r="40" cx="190" cy="110" fill="white"></circle>
+		<circle class="cat__eye1_pupil" r="10" cx="190" cy="110" fill="black"></circle>
+		<circle class="cat__eye2" r="40" cx="240" cy="110" fill="white"></circle> 
+		<circle class="cat__eye2_pupil" r="10" cx="240" cy="110" fill="black"></circle>
+		<circle class="cat__nose" r="15" cx="215" cy="150" fill="black"></circle>
+		<ellipse class="mouth" rx="10" ry="18" cx="230" cy="0" transform="rotate(90 120 80)" fill="#a22733"></ellipse>
+
+    		<!--kolobok yellow -->
+    	<ellipse class="shadow" rx="80" ry="20" cx="450" cy="245" fill="#9b9b9b" opacity="0.4"></ellipse>
+    	<circle class="kolobok" r="105" cx="450" cy="140" fill="#efd547"></circle> 
+		<circle class="kolobok__eye1" r="40" cx="410" cy="110" fill="white"></circle>
+		<circle class="kolobok__eye1_pupil" r="10" cx="410" cy="110" fill="black"></circle>
+		<circle class="kolobok__eye2" r="40" cx="470" cy="110" fill="white"></circle> 
+		<circle class="kolobok__eye2_pupil" r="10" cx="470" cy="110" fill="black"></circle>
+		<ellipse class="kolobok__mouth" rx="10" ry="18" cx="440" cy="180" fill="#a22733"></ellipse>
+	</svg>
